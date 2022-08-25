@@ -12,7 +12,9 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 // Na jouw script zie je de aangepaste waardes:
 // console.log(names) geeft: ["Henkje", "Pietje", "Fredje", "Joopje"]
 
-
+for (let i = 0; i < names.length; i++) {
+    console.log(names[i] + "je");
+}
 
 
 // ==========================================
