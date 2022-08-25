@@ -6,8 +6,6 @@
 // Hoera!
 // ==========================================
 
-
-
 // ==========================================
 // Opdracht 2. Maak een for-loop die 4 keer het woord "loop..." logt, en bij de vijfde loop het woord "klaar!"
 // Verwachte uitkomsten:
